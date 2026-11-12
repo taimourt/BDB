@@ -1,0 +1,284 @@
+[
+  {
+    "leadId": "BDB-20261018-0TCFM",
+    "submittedAt": "2026-10-18T10:21:35.711Z",
+    "serviceNeed": "new_construction",
+    "serviceNeedCustom": "",
+    "city": "Lahore",
+    "customCity": "",
+    "areaLocation": "",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "",
+    "budgetRange": "Not Specified",
+    "expectedStartDate": "Flexible",
+    "additionalRequirements": "",
+    "isOverseasClient": false,
+    "countryOfResidence": "Pakistan",
+    "fullName": "Taimour Test",
+    "countryCode": "+92",
+    "phone": "+923001234567",
+    "email": "",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "formLoadTimestamp": 1792318890000,
+    "clientMetadata": {
+      "sourceUrl": "/",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "",
+        "utmMedium": "",
+        "utmCampaign": "",
+        "utmTerm": "",
+        "utmContent": ""
+      },
+      "userAgent": "curl/8.7.1"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-18T10:21:35.711Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-CMCYC",
+    "submittedAt": "2026-10-17T16:17:18.273Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T16:17:18.273Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-WTWEW",
+    "submittedAt": "2026-10-17T15:59:38.672Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:59:38.672Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-0PVDV",
+    "submittedAt": "2026-10-17T15:58:10.538Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:58:10.538Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-9NEUW",
+    "submittedAt": "2026-10-17T15:44:00.518Z",
+    "serviceNeed": "new-house",
+    "serviceNeedCustom": "",
+    "city": "Islamabad",
+    "customCity": "",
+    "areaLocation": "",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "",
+    "budgetRange": "Not Specified",
+    "expectedStartDate": "Flexible",
+    "additionalRequirements": "",
+    "isOverseasClient": false,
+    "countryOfResidence": "Pakistan",
+    "fullName": "Furqan Butt Test",
+    "countryCode": "+92",
+    "phone": "03001234567",
+    "email": "",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "formLoadTimestamp": 1000,
+    "clientMetadata": {
+      "sourceUrl": "/",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "",
+        "utmMedium": "",
+        "utmCampaign": "",
+        "utmTerm": "",
+        "utmContent": ""
+      },
+      "userAgent": "curl/8.7.1"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:44:00.518Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-8VX7O",
+    "submittedAt": "2026-10-17T15:22:03.008Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:22:03.008Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-X0CQI",
+    "submittedAt": "2026-10-17T15:20:01.071Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:20:01.071Z"
+    }
+  },
+  {
+    "leadId": "BDB-20261017-7NVGS",
+    "submittedAt": "2026-10-17T15:17:59.023Z",
+    "serviceNeed": "new-house",
+    "fullName": "Syed Taimour Ali",
+    "phone": "03000555323",
+    "countryCode": "+92",
+    "city": "Islamabad",
+    "areaLocation": "DHA Phase 2",
+    "plotPreset": "1-kanal",
+    "isCustomDimensions": false,
+    "constructionStage": "planning-design",
+    "approxCoveredAreaSqFt": "5900",
+    "budgetRange": "PKR 2.5 - 4.5 Crore",
+    "expectedStartDate": "1-3 Months",
+    "preferredContactMethod": "whatsapp",
+    "consentGiven": true,
+    "clientMetadata": {
+      "sourceUrl": "http://localhost:3000/#enquiry",
+      "referrer": "direct",
+      "campaignParams": {
+        "utmSource": "tiktok-organic",
+        "utmMedium": "video",
+        "utmCampaign": "pakistan-challenge"
+      },
+      "userAgent": "Automated-Verification-Agent"
+    },
+    "consentRecord": {
+      "consentGiven": true,
+      "consentStatement": "I authorize Black Diamond Builders engineering and sales desk to contact me regarding this construction enquiry.",
+      "timestamp": "2026-10-17T15:17:59.023Z"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Q-20261017-AX0R",
+    "question": "What thickness of porcelain tile adhesive is recommended for underfloor heating in Islamabad?",
+    "askerName": "Danyal Khan",
+    "city": "Islamabad",
+    "status": "pending_moderation",
+    "submittedAt": "2026-10-17T16:00:19.874Z",
+    "constructionTopic": "Finishing & Adhesives"
+  },
+  {
+    "id": "Q-20261017-3WQ0",
+    "question": "What is the recommended center-to-center spacing for stirrup ties in main columns for Zone 2B seismic areas in Pakistan?",
+    "askerName": "Dr. Kamran Siddiqui",
+    "city": "Lahore",
+    "status": "pending_moderation",
+    "submittedAt": "2026-10-17T15:55:11.848Z",
+    "constructionTopic": "Grey Structure & Steel"
+  },
+  {
+    "id": "q-01",
+    "question": "How can I verify if the steel delivered to my site is genuine Grade 60 or recycled re-roll scrap?",
+    "askerName": "Hamza Malik",
+    "city": "Islamabad",
+    "status": "published",
+    "answer": "Look for mill markings stamped directly onto the deformed ribs every 1 meter — reputable prime mills like Amreli, Mughal, or Model stamp their mill name, nominal bar size (e.g., #4, #6), and 'G60'. Second, demand the Mill Test Certificate (MTC) matching that exact delivery heat number. Third, snap a sample piece: counterfeit re-roll steel snaps brittlely or exhibits internal fissures, whereas prime Grade 60 bends smoothly around a pin without surface fractures.",
+    "answeredBy": "Furqan Butt",
+    "submittedAt": "2026-10-10T12:00:00Z",
+    "answeredAt": "2026-10-11T16:30:00Z",
+    "constructionTopic": "Material Quality & Steel Verification",
+    "helpfulNotes": "Never allow unlabelled or loose unbundled rebar onto your plot."
+  },
+  {
+    "id": "q-02",
+    "question": "Why do you insist on 14 days of slab ponding? Other contractors say 4 to 5 days is plenty.",
+    "askerName": "Tariq Mahmood (Expat)",
+    "city": "Birmingham, UK",
+    "status": "published",
+    "answer": "Anyone telling you 4 days is enough is a 'Shapper' builder trying to strip your shuttering props early to take them to another client's project! Concrete gains only ~65% of its design compressive strength at 7 days. It requires 14 to 28 days of uninterrupted moisture hydration to reach full 3,000+ PSI molecular cross-linking. Depriving concrete of water early causes permanent micro-cracking that will leak water and corrode your steel 3 years later.",
+    "answeredBy": "Furqan Butt",
+    "submittedAt": "2026-10-08T09:15:00Z",
+    "answeredAt": "2026-10-09T14:00:00Z",
+    "constructionTopic": "Structural Curing & Concrete Chemistry",
+    "helpfulNotes": "Shuttering props must remain under main beams for 21 days minimum."
+  },
+  {
+    "id": "q-03",
+    "question": "I live in Dallas, Texas. Can I build a luxury house in DHA Islamabad without being physically present?",
+    "askerName": "Khurram Shahzad",
+    "city": "Dallas, USA",
+    "status": "published",
+    "answer": "Over 60% of Black Diamond Builders' luxury projects are built for Overseas Pakistanis! You do not need to take time off work or worry about remote fraud. We provide digital milestone contracts, live unedited 4K WhatsApp walk-throughs before every concrete pour, third-party lab compression cylinder test reports, and an escrow milestone payment schedule. You see every kilogram of steel tied before it is covered.",
+    "answeredBy": "Furqan Butt",
+    "submittedAt": "2026-10-05T18:20:00Z",
+    "answeredAt": "2026-10-06T11:45:00Z",
+    "constructionTopic": "Overseas Expatriate Construction Management",
+    "helpfulNotes": "Schedule a dedicated overseas video conference directly through our portal."
+  },
+  {
+    "id": "q-04",
+    "question": "What is the single biggest trick contractors use to quote unrealistically cheap rates?",
+    "askerName": "Zeeshan Abbasi",
+    "city": "Rawalpindi",
+    "status": "published",
+    "answer": "They cut the covered area steel ratio and concrete thickness! A standard earthquake-resistant double-story house requires 4.2 to 4.8 kg of steel per covered square foot. A cut-corner builder drops that to 2.8 to 3.2 kg, uses 4-inch floor slabs instead of 5.5-inch slabs, and uses unwashed local quarry dust instead of Lawrencepur sand. On paper, their per sq.ft rate looks cheaper — but your house foundation will sink and crack within 5 years.",
+    "answeredBy": "Furqan Butt",
+    "submittedAt": "2026-09-28T14:00:00Z",
+    "answeredAt": "2026-09-29T10:30:00Z",
+    "constructionTopic": "Contractor Rate Traps & Material Cutting",
+    "helpfulNotes": "Always ask your builder for the total steel tonnage guaranteed in the BOQ."
+  }
+]
